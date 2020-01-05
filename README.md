@@ -1,2 +1,2 @@
 # competitive-programming-solutions
-Here you can find solutions of the competitaive coding.
+Here you can find solutions of the coding problem statement.
